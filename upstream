@@ -2,3 +2,6 @@
 a11b3736dbc0e16c61a34133c160d60d7987fe10/cassandra-driver-core-3.0.1.pom
 42e7b11babe84a490855adc1a5d04b7bdfd6dbdc/cassandra-driver-core-3.0.1-shaded.jar
 0a17bab8044741fe89976883d929d4ca62ed522c/cassandra-driver-parent-3.0.1.pom
+b69adf704d14dcc0222fc4180f2c112054304bd0/cassandra-driver-core-3.0.0.jar
+1203cf8e806469c04884abf57876fb1add3f25db/cassandra-driver-core-3.0.0.pom
+df6204e5316dc417846a64efdcf89ebf6f820205/cassandra-driver-parent-3.0.0.pom
