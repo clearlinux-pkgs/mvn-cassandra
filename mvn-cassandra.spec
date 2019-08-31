@@ -4,7 +4,7 @@
 #
 Name     : mvn-cassandra
 Version  : 1
-Release  : 2
+Release  : 3
 URL      : https://repo.maven.apache.org/maven2/com/datastax/cassandra/cassandra-driver-core/3.0.1/cassandra-driver-core-3.0.1-sources.jar
 Source0  : https://repo.maven.apache.org/maven2/com/datastax/cassandra/cassandra-driver-core/3.0.1/cassandra-driver-core-3.0.1-sources.jar
 Source1  : https://repo.maven.apache.org/maven2/com/datastax/cassandra/cassandra-driver-core/3.0.0/cassandra-driver-core-3.0.0.jar
